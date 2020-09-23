@@ -3,6 +3,26 @@ body{
 
 }
 
-.im{
-    width: 50%;
+.Page1{
+
+    background-color: green;
+    height: 100vh;
+}
+
+button{
+    position: absolute;
+    top:95vh;
+    left:50vw;
+}
+
+.Page2{
+
+    background-color: orange;
+    height: 100vh;
+}
+
+.Page3{
+
+    background-color: red;
+    height: 100vh;
 }
